@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'ラボ 6: ID セキュリティ スコアを使用してセキュリティ態勢を監視および管理する'
+  title: ラボ 6 - ID セキュリティ スコアを使用してセキュリティ態勢を監視および管理する
   module: 'Module : Deploying access using Microsoft Entra entitlement management'
 ---
 
