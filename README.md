@@ -1,4 +1,4 @@
-# ラボの目的: Microsift Entra ID を使用してエンタイトルメントを構成および管理する
+# ラボの目的 - Microsift Entra ID を使用してエンタイトルメントを構成および管理する
 
 **あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 
