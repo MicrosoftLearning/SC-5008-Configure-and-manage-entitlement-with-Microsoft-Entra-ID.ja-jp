@@ -92,7 +92,7 @@ lab:
 
 1. テナントに基づいて Adele Vance としてログインします。
 
- **注** - **Microsoft Security** から、「**必要なアクション: LinkedIn へのアクセスのレビュー**」という件名の電子メールが届くはずです。このメールは、届くまでに 10 分かかる場合があります。
+ **注** - **Microsoft Security** から、「**Action required: Review access to the LinkedIn...**」という件名の電子メールが届くはずです。このメールは、届くまでに 10 分かかる場合があります。
 
 1. **[Start review]** ボタンを選択します。
 

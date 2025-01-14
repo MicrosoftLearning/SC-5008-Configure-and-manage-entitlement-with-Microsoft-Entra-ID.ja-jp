@@ -1,10 +1,10 @@
 ---
 lab:
-  title: 'ラボ 4: Microsoft Entra ID Identity Governanceの設定で外部ユーザーのライフサイクルを管理する'
+  title: '[Microsoft Entra ID] 項目を開き、[ID Identity Governance] を選択します。'
   module: 'Module : Deploying access using Microsoft Entra entitlement management'
 ---
 
-# ラボ 4: Microsoft Entra ID Identity Governanceの設定で外部ユーザーのライフサイクルを管理する  
+# ラボ 4: Microsoft Entra Identity Governanceの設定で外部ユーザーのライフサイクルを管理する  
 
 ## ラボのシナリオ
 
@@ -12,13 +12,13 @@ lab:
 
 #### 推定時間:5 分
 
-### 演習 1 - Microsoft Entra ID Identity Governanceの設定
+### 演習 1 - Microsoft Entra Identity Governanceの設定
 
-#### タスク 1 - Microsoft Entra ID Identity Governanceの設定で外部ユーザーのライフサイクルを管理する
+#### タスク 1 - Microsoft Entra Identity Governanceの設定で外部ユーザーのライフサイクルを管理する
 
 1. グローバル管理者として、 [https://entra.microsoft.com](https://entra.microsoft.com)  にサインインします。
 
-2. [Microsoft Entra ID] 項目を開き、 **[ID Identity Governance]** を選択します。
+2. [Microsoft Entra ID] 項目を開き、 **[Identity Governance]** を選択します。
 
 3. 左側のナビゲーション メニューの **[エンタイトルメント管理]** で、**[設定]** を選択します。
 
