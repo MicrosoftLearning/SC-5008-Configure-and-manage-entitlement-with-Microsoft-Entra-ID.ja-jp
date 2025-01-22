@@ -111,7 +111,7 @@ lab:
     | フィールド | 値 |
     | :---  | :---  |
     | 名前  | `pckSales` |
-    | 表示名 | `Use this access package to assign resources to members of the Sales team.` |
+    | 表示名 | `このアクセス パッケージを使用して、営業チームのメンバーにリソースを割り当てます。` |
     | カタログ | catSales |
     | | |
 
